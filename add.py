@@ -3,6 +3,7 @@ int
 {
   a=8
   b=4
-printf ("a*b")
+  c=2
+printf ("a*b*c")
 }
 
