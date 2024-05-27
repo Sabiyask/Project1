@@ -1,4 +1,8 @@
-a=8
-b=4
-c=a+b
-print c
+#include/,studio.h>
+int
+{
+  a=8
+  b=4
+printf ("a*b")
+}
+
